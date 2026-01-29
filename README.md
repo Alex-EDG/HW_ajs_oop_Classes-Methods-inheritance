@@ -14,6 +14,8 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/lk1cj4q9vvuh8ueu?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ajs-oop-classes-methods-inheritance)
+
 ## Классы, наследование
 
 ### Легенда
